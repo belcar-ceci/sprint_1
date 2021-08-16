@@ -1,0 +1,14 @@
+/*footer*/
+#footer{
+    position: absolute;
+    display:flex;
+    justify-content: center;
+    border: 17px solid black;
+    background: #E4A434;
+    width: 100vw;
+    height: 8vw;
+    margin-top:50vw;
+    
+    
+   
+}

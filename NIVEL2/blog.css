@@ -1,0 +1,55 @@
+/*BLOG*/
+#blog {
+    padding: 40px 40 px;
+    display: flex;
+    justify-content: center;
+    text-align:justify;
+}
+#blog img {
+    width:100%;
+    padding: 10px;
+}
+
+#blog .data{
+    font-size:1.5vw; 
+    color:white;
+    position: absolute;
+    top: 30vw;
+    left: 8vw;
+    transform: translate(-50%, -50%);
+}
+#blog a {
+    display: block;
+    width: 100px;
+    color: rgb(179, 176, 176);
+    text-decoration: none;
+    padding: 10px;
+    margin-top: 15px;
+    
+}
+#blog p{
+    align-items: center;
+    font-size: 1.5vw;
+    justify-content:flex-start;
+    text-align: justify;
+    color: black;
+    padding: 10px;
+}
+#blog .contenedor{
+    position: relative;
+    display: inline-block;
+    border: 5px solid rgb(205, 208, 205);
+    background-color: rgb(232, 236, 232);
+   
+ 
+}
+#blog div h4{
+  
+    background-color: #ec2651;
+    position:relative;
+    color: white;
+    padding: 10px;
+    font-size: 1.5vw; 
+    left:10px;
+    width:97%;    
+}
